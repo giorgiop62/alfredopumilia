@@ -50,10 +50,11 @@ section {
 }
 
 .container-fluid {
-    height: 1500px;
     font-style: sans-serif;
     background-image: url('../../assets/alfviolin.JPG');
     background-size: cover;
+    height: 100vh;
+
 }
 
 span {
@@ -66,15 +67,16 @@ h1 {
     color: white;
 }
 
-img {
-    max-width: 100%;
-    width: 500px;
-    margin-bottom: 70px;
-}
+
 
 @media only screen and (max-width: 767px) {
     img {
         width: 100%;
+    }
+
+    .container-fluid {
+        height: 1500px;
+
     }
 }
 </style>

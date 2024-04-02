@@ -8,6 +8,19 @@ export default {
     <div class="container-fluid">
         <h1 class="text-center p-3">Discografia</h1>
         <div class="box-disco p-5 d-flex flex-wrap justify-content-around">
+
+            <div class="card" style="width: 18rem; margin-bottom: 20px;">
+                <!-- Aggiunto margin-bottom per la distanza tra le cards -->
+                <img src="../../assets/ultimo.jpeg" class="card-img-top" alt="Hydruntum">
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <h5 class="card-title">Miradois</h5>
+                    <p class="card-text">Uscita 29/03/2024</p>
+                    <a href="#" class="btn btn-dark">Ascolta su Spotify</a>
+                </div>
+            </div>
+
+
             <!-- Aggiunto flex-wrap e justify-content-center -->
             <div class="card" style="width: 18rem; margin-bottom: 20px;">
                 <!-- Aggiunto margin-bottom per la distanza tra le cards -->
@@ -56,7 +69,7 @@ export default {
 <style lang="scss" scoped>
 .container-fluid {
     background-color: black;
-    color: white;
+    color: black;
     justify-content: space-between;
     height: 100vh;
 }

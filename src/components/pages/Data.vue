@@ -54,6 +54,14 @@
                 </tr>
                 <tr>
                     <td>
+                        Slash Plus: via Vincenzo Gemito 20, Naples, Italy.
+                    </td>
+                    <td>30 Marzo</td>
+                    <td>Flamenco Napuleño trio</td>
+                </tr>
+
+                <tr>
+                    <td>
                         Auditorium novecento: Via Enrico De Marinis, 4, 80134
                         Napoli NA
                     </td>
@@ -81,6 +89,7 @@
                     <td>27 Luglio</td>
                     <td> Ensemble Alfredo Pumilia</td>
                 </tr>
+
             </tbody>
         </table>
     </div>
@@ -92,10 +101,16 @@
     background-image: url("../../assets/notte.jpg");
     background-size: cover;
     width: 100%;
-    height: 1400px;
+    height: 100vh;
 }
 
 .table {
     opacity: 0.8;
+}
+
+@media only screen and (max-width: 767px) {
+    .container-fluid {
+        height: 1200px;
+    }
 }
 </style>
