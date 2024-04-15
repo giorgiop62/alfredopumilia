@@ -10,8 +10,8 @@
                     <ul class="list-unstyled">
                         <li><i class="fa-solid fa-phone my-2 "></i> <a href="tel:+393929220639">+393929220639</a>
                         </li>
-                        <li><i class="fa-solid fa-envelope my-2"></i><a
-                                href="mailto:a.pumiliamusic@gmail.com">a.pumiliamusic@gmail.com</a>
+                        <li><i class="fa-solid fa-envelope ml-2 my-2"></i><a href="mailto:a.pumiliamusic@gmail.com">
+                                a.pumiliamusic@gmail.com</a>
                         </li>
                         <li>
                             <span class="navbar-text">

@@ -33,14 +33,21 @@ export default {
             - Nel 2016 con gli ‘Araputo Zen’ pubblica il primo disco, Hydruntum; <br>
             - Nel 2017 pubblica il disco con il trio ‘Flamenco Napuleño’;<br>
             - Nel 2021 viene presentato il secondo Album degli ‘Araputo Zen’, Majacosajusta;<br>
-            - Nel 2024 pubblica il suo nuovo disco, Miradois. <br>
-            <span>Miradois.</span>
+            - Nel 2024 pubblica il suo nuovo disco, <span><a
+                    href="https://domenicoscarlattiuberalles.wordpress.com/2024/04/11/alfredo-pumilia-presenta-lintrigante-e-potentemiradois/">Miradois.</a></span>
+            <br>
         </section>
 
     </div>
 </template>
 
 <style lang="scss" scoped>
+a {
+    text-decoration: none;
+    color: burlywood;
+    cursor: pointer;
+}
+
 section {
     text-align: center;
     color: white;
@@ -58,7 +65,6 @@ section {
 
 span {
     font-weight: bold;
-    color: burlywood;
 }
 
 h1 {
@@ -76,6 +82,10 @@ h1 {
     .container-fluid {
         height: 1500px;
 
+    }
+
+    span {
+        font-weight: bold;
     }
 }
 </style>
