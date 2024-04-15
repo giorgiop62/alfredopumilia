@@ -68,6 +68,31 @@
                     <td>11 Aprile</td>
                     <td>Alfredo Pumilia ensemble, presentazione Miradois</td>
                 </tr>
+
+                <tr>
+
+                    <td>
+                        Mustacchio barber shop,Roma
+                    </td>
+                    <td>9 Maggio</td>
+                    <td>Pumilia-Corvasce quartet</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Sala Scarlatti, conservatorio San Pietro a Mantella
+                    </td>
+                    <td>10 Maggio, ore 18:00</td>
+                    <td> OEOAS (orchestra elettroacustica officina arti sonore)</td>
+                </tr>
+                <tr>
+                    <td>
+                        Mileto art gallery, piazza Mileto, Roma
+                    </td>
+                    <td>10 Maggio</td>
+                    <td>Pumilia-Corvasce quartet</td>
+                </tr>
+
                 <tr>
                     <td>
                         Procida
@@ -89,6 +114,13 @@
                     <td>27 Luglio</td>
                     <td> Ensemble Alfredo Pumilia</td>
                 </tr>
+                <tr>
+                    <td>
+                        Letino (CE)
+                    </td>
+                    <td>27 Luglio</td>
+                    <td> Ensemble Alfredo Pumilia</td>
+                </tr>
 
             </tbody>
         </table>
@@ -98,19 +130,13 @@
 <style lang="scss" scoped>
 .container-fluid {
     color: white;
-    background-image: url("../../assets/notte.jpg");
+    background-color: black;
     background-size: cover;
     width: 100%;
-    height: 100vh;
+    height: 2000px
 }
 
 .table {
     opacity: 0.8;
-}
-
-@media only screen and (max-width: 767px) {
-    .container-fluid {
-        height: 1200px;
-    }
 }
 </style>

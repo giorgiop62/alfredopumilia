@@ -1,4 +1,3 @@
-
 <script>
 
 import Header from './components/AppHeader.vue'
@@ -41,4 +40,3 @@ export default {
     }
 }
 </style>
-

@@ -30,7 +30,6 @@ export default {
 .videoPresentazione {
     width: 100%;
     height: 50rem;
-    border: 4px solid gray;
     padding: 90px;
     background-color: black;
 }
@@ -83,7 +82,6 @@ i {
     .videoPresentazione {
         width: 100%;
         height: 20rem;
-        border: 3px solid gray;
         padding: 30px;
         background-color: black;
     }

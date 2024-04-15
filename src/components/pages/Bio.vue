@@ -10,7 +10,7 @@ export default {
         <section class="text-center mb-4">
             Musicista e compositore napoletano, classe 1990, inizia ad approcciare alla musica da bambino studiando il
             flauto traverso, successivamente inizia lo studio della chitarra, approfondendola nel jazz per poi
-            diplomarsi al conservatorio di Napoli S. Pietro a Majella in violino classico
+            diplomarsi al conservatorio di Napoli S. Pietro a Majella in violino classico.
         </section>
         <section class="text-center mb-4">
 
@@ -32,9 +32,8 @@ export default {
         <section class="text-center mb-4">
             - Nel 2016 con gli ‘Araputo Zen’ pubblica il primo disco, Hydruntum; <br>
             - Nel 2017 pubblica il disco con il trio ‘Flamenco Napuleño’;<br>
-            - Nel 2021 viene presentato il secondo Album degli ‘Araputo Zen’, Majacosajusta; <br>
-
-            - Attualmente sta Lavorando al suo nuovo disco, <br>
+            - Nel 2021 viene presentato il secondo Album degli ‘Araputo Zen’, Majacosajusta;<br>
+            - Nel 2024 pubblica il suo nuovo disco, Miradois. <br>
             <span>Miradois.</span>
         </section>
 

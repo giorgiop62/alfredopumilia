@@ -9,7 +9,7 @@ export default {
 <template>
     <nav class="navbar navbar-expand-lg bg-dark">
         <div class="container-fluid">
-            <router-link class="navbar-brand text-light" to="/home" tag="button">Alfredo Pumilia</router-link>
+            <router-link class="navbar-brand text-light" to="/" tag="button">Alfredo Pumilia</router-link>
             <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
